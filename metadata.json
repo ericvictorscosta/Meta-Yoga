@@ -1,0 +1,5 @@
+{
+  "name": "Meta Yoga Web",
+  "description": "A wellness and fitness web application focused on yoga, healthy eating, and physical activities. It allows users to follow instructional yoga videos, access a diet plan with categorized recipes, log walking activities, and track their progress through a calendar.",
+  "requestFramePermissions": []
+}

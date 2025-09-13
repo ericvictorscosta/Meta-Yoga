@@ -1,0 +1,24 @@
+{
+  "short_name": "Meta Yoga",
+  "name": "Meta Yoga Web",
+  "description": "A wellness and fitness web application focused on yoga, healthy eating, and physical activities.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#10b981",
+  "background_color": "#f8fafc"
+}
